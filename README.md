@@ -26,6 +26,35 @@ GIT (버전 관리 시스템)
 
 <h2>백업</h2>
 
-언제 고장날지 모른다.
-github.com 이라는 백업을 해주는 컴퓨터(사업자)가 있다.
+언제 고장날지 모른다.<br>
+github.com 이라는 백업을 해주는 컴퓨터(사업자)가 있다.<br>
+
+
+- 지역저장소(내컴퓨터에 있는 파일)<br>
+- 원격저장소<br>
+
+<h2>push</h2>
+밀어넣는다 내컴퓨터의 파일을 원격저장소에.
+<h2>pull</h2>
+당겨온다. 원격장소에서 내 컴퓨터로.
+<p>이게 동기화이다</p>
+
+
+<h2>협업</h2>
+push(밀어넣다) -> 원격저장소 -> pull(땡겨오다)<br>
+
+다른사람 컴퓨터(git 홈페이지) 원격저장소 <br>
+
+<h2>GIT의 종류</h2>
+git client<br>
+git client의 종류<br>
+
+-Sourcetree<br>
+
+<h4>githurb명령어 </h4>
+$git log : 버전의 목록을 보여줘 <br>
+$ git status : 깃의 상태를 보여줘 <br>
+$ git commit -am "메시지내용" <br>
+$ git push : 야 업로드해 <br>
+
 
