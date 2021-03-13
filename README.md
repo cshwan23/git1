@@ -49,9 +49,10 @@ push(밀어넣다) -> 원격저장소 -> pull(땡겨오다)<br>
 git client<br>
 git client의 종류<br>
 
--Sourcetree<br>
+-Sourcetree : git프로그램<br>
 
 <h2>githurb명령어 </h2>
+
 $ git log : 버전의 목록을 보여줘 <br>
 $ git status : 깃의 상태를 보여줘 <br>
 $ git commit -am "메시지내용" <br>
