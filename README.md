@@ -79,18 +79,46 @@ $ git push : 야 업로드해 <br>
 
 # 버전 생성
 
-<p> Workingtree</p>
-버전으로 만들어지기 전단계
+# Workingtree
+버전으로 만들어지기 전단계<br>
 수정하는곳 수정한 파일들
 
-<p>staging Area</p>
-버전을만드려고하는 파일들
-버전을 만드려고할 때 파일이 10면 다 10개 버전으로 ㅁ나들게아니라 
-파일 딱 2개만 버전으로 만들고싶으면 
-staging Area 에 올리는거다.
+# staging Area
+버전을 만드려고하는 파일들<br>
+버전을 만드려고할 때 파일이 10면 다 10개 버전으로 만들게 아니라 <br>
+파일 딱 2개만 버전으로 만들고 싶으면 staging Area 에 올리는거다.
 
-<p>repository</p>
+# repository
 만들어진 파일들
+
+<hr>
+
+# $ git statius
+나의 .git의 상태
+
+# git add hello1.txt
+staging area에 올려라는 명령어<br>
+change to be committed: 라고 뜬다.
+
+
+# git commit -m "메세지 입력"
+커밋할 파일들을 깃에게 버전으로 만들어<br>
+이렇게 하면 버전이 생성된다.<br>
+그럼 리파지토리로 가게된다.
+
+# git status 
+깃의 상태를 보는데<br>
+nothing to commit, working tree clean<br>
+버전으로 만들것이 없다.
+
+# git log
+버전이 잘되었는지 확인하기 위한 명령어<br>
+버전의 역사를 보는 명령어
+
+# q
+나가는 명령어
+
+# git add -> git commit -m "" 
 
 
 
