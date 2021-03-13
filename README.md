@@ -66,21 +66,31 @@ $ git push : 야 업로드해 <br>
 - 깃 에게 특정한 디렉토리를 버전관리하고싶으니까 거기서 관리해를 시킬거다.
 - 다큐멘트라는 폴더에 깃이라는 디렉토리 만듬
 - cd Dcument/git 이라는 디렉토리를 만듦.
-# mkdir hello-git-cli 
+<h4> mkdir hello-git-cli </h4>
 
-# git init .
+<h4> git init . </h4>
 : 난 이제부터 여기서 버전관리할 거니까너 이 현재 디렉토리를 이제 버전관리하기 시작해
 
-# cd .git
+<h4> cd .git </h4>
 이 .git 에 파일에 저장이 될거다.
 
-# ls -al
+<h4> ls -al </h4>
 절대 이제 .git을 삭제하면 안된다 이제~
 
 # 버전 생성
 
+<p> Workingtree</p>
+버전으로 만들어지기 전단계
+수정하는곳 수정한 파일들
 
+<p>staging Area</p>
+버전을만드려고하는 파일들
+버전을 만드려고할 때 파일이 10면 다 10개 버전으로 ㅁ나들게아니라 
+파일 딱 2개만 버전으로 만들고싶으면 
+staging Area 에 올리는거다.
 
+<p>repository</p>
+만들어진 파일들
 
 
 
