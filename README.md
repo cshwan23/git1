@@ -58,4 +58,8 @@ $ git status : 깃의 상태를 보여줘 <br>
 $ git commit -am "메시지내용" <br>
 $ git push : 야 업로드해 <br>
 
+# git2
 
+# CLI 
+
+#
