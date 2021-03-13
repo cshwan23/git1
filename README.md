@@ -1,5 +1,5 @@
 # git1
-깃(GIT) 공부1
+깃(GIT) 공부(1)
 
 
 
@@ -52,7 +52,7 @@ git client의 종류<br>
 -Sourcetree<br>
 
 <h2>githurb명령어 </h2>
-$git log : 버전의 목록을 보여줘 <br>
+$ git log : 버전의 목록을 보여줘 <br>
 $ git status : 깃의 상태를 보여줘 <br>
 $ git commit -am "메시지내용" <br>
 $ git push : 야 업로드해 <br>
